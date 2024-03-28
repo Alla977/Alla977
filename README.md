@@ -6,4 +6,6 @@ Currently working on several spare-time python-based projects, one of which wher
 
 Feel free to check them out and let me know if you have any questions or inputs. 
 
+Email: alarsen314@outlook.dk
+
 
