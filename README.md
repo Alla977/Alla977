@@ -1,4 +1,4 @@
-🖐 Hi there, I'm Alex .🖐 
+Hi there, I'm Alex .🖐 
 
 I'm an actuary and tennis enthusiast!  📈🔢 🎾
 
