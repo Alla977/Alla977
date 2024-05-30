@@ -1,6 +1,6 @@
 Hi there, I'm Alex .🖐 
 
-I'm an actuary and tennis enthusiast!  📈🔢 🎾
+I'm a data analyst and tennis enthusiast!  📈🔢 🎾
 
 Currently working on several spare-time python-based projects, one of which where I predict outcomes of professional tennis matches using Machine Learning models. 🤖🧠
 
