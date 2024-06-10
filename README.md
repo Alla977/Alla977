@@ -8,6 +8,6 @@ Feel free to check them out and let me know if you have any questions or inputs.
 
 📧 Email : alarsen314@outlook.dk 
 
-LinkedIn : https://www.linkedin.com/in/alexander--larsen/ 
+🔗 LinkedIn : https://www.linkedin.com/in/alexander--larsen/ 
 
 
